@@ -1,7 +1,7 @@
 
-# Pet Adoption Portal using MERN stack
+# Pet Adoption Portal using MERN stack 🐕
 
-### This project aims to create a web-based platform that connects loving pet owners with adoptable animals in need of forever homes. Here's a quick overview:
+### ⭐This project aims to create a web-based platform that connects loving pet owners with adoptable animals in need of forever homes. Here's a quick overview:
 
 The Pet Adoption Portal is a comprehensive web application designed to connect loving pet owners with adoptable animals in need of forever homes. This platform aims to streamline the pet adoption process, providing a user-friendly interface for both prospective adopters and animal shelters. By leveraging the power of the internet, the portal simplifies the search for compatible pets, facilitates adoption applications, and fosters a compassionate community dedicated to the well-being of animals.
 
@@ -13,7 +13,7 @@ Finding adoptable pets can be difficult, while shelters struggle with visibility
 ### Solution: 
 A user-friendly pet adoption portal that simplifies the process for both adopters and shelters.
 
-## Features:
+## ⭐Features:
 
 #### User registration and profiles
 #### Searchable pet listings with filters and details
@@ -26,7 +26,7 @@ A user-friendly pet adoption portal that simplifies the process for both adopter
 #### Improved matching between adopters and suitable pets
 #### Fostering a sense of community around pet adoption
 
-### Technology Stack:
+## ⭐Technology Stack:
 
 #### Front-end: 
 React.js, HTML, CSS, JavaScript
