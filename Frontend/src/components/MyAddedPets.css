@@ -1,0 +1,43 @@
+.container {
+    padding: 0;
+  }
+  
+  .pet {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .pet-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .pet-table th, .pet-table td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .pet-table th {
+    background-color: #2c3e50;
+    color: #fff;
+  }
+  
+  .pet-table img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }

@@ -1,0 +1,17 @@
+/* Dashboard.css */
+.dashboard-link-item {
+  display: block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+  /* Add any other styling you'd like */
+}
+/* Dashboard.css */
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh; /* Adjust as needed */
+  /* Add any other styling you'd like */
+}

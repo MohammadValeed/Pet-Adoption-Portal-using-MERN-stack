@@ -1,0 +1,53 @@
+/* MyAdoptionRequest.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Adoption request container */
+  .adoption-request-container {
+    padding: 20px;
+  }
+  
+  /* Adoption request title */
+  .adoption-request-title {
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  /* Table styles */
+  .adoption-request-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  /* Table header styles */
+  .table-header {
+    background-color: #2c3e50;
+    color: rgb(21, 18, 18);
+    text-align: left;
+  }
+  
+  /* Table header cell styles */
+  .table-header th {
+    padding: 10px;
+  }
+  
+  /* Table body styles */
+  .adoption-request-table tbody tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Table body cell styles */
+  .adoption-request-table tbody td {
+    padding: 10px;
+  }
+  
+  /* Table row hover effect */
+  .adoption-request-table tbody tr:hover {
+    background-color: #f5f5f5;
+  }
+  h2{
+    text-align: center;
+  }

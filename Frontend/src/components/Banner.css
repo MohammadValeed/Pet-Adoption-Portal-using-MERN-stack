@@ -1,0 +1,10 @@
+.banner-added{
+    background-image: linear-gradient(
+        rgba(27, 25, 25, 0.832),
+        rgba(30, 29, 29, 0.701)
+      ),
+      url('https://img.freepik.com/premium-photo/friendly-dog-cat-resting-green-grass-background_1182637-93597.jpg?w=1000');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}

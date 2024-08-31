@@ -1,0 +1,52 @@
+/* UserAdoptionRequest.css */
+.App {
+    text-align: center; /* Center the text and elements */
+  }
+  
+  .table-container {
+    margin: auto; /* Center the table container */
+    width: 80%; /* Adjust the width as needed */
+    overflow: auto; /* Add scrollbars if the content is too wide */
+  }
+  
+  table {
+    width: 100%; /* Full-width table */
+    border-collapse: collapse; /* Collapse borders */
+  }
+  
+  th, td {
+    border: 1px solid #ddd; /* Internal border */
+    padding: 8px; /* Padding around text */
+    text-align: left; /* Align text to the left */
+  }
+  
+  th {
+    background-color: #f2f2f2; /* Header background color */
+  }
+  
+  .accept-btn {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .reject-btn {
+    background-color: #f44336; /* Red */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    table, tr, td, th {
+      display: block;
+    }
+  
+    td, th {
+      width: auto;
+    }
+  }

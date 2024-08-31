@@ -1,0 +1,95 @@
+/* General styling for the form container */
+.profile-form-container {
+    max-width: 600px;
+    margin: 60px auto; /* Adjusted margin to include space from the top and bottom */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  /* Styling for the table containing form fields */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the table heading */
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for table rows and cells */
+  tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  td {
+    padding: 10px;
+    vertical-align: middle;
+  }
+  
+  /* Styling for the input fields */
+  input[type="text"],
+  input[type="number"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="file"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Styling for the submit button */
+  button[type="button"] {
+    width: 100%;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="button"]:hover {
+    background-color: #45a049;
+  }
+  
+  button.saving {
+    background-color: #3e8e41;
+    cursor: not-allowed;
+  }
+  
+  /* Styling for the profile picture preview */
+  .profile-pic-preview {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 10px;
+    display: block;
+  }
+  
+  /* Styling for the alert message */
+  .alert-message {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the success message */
+  .success-message {
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    margin-top: 20px;
+  }

@@ -1,0 +1,10 @@
+.banner{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.832),
+        rgba(0, 0, 0, 0.701)
+      ),
+      url('https://img.freepik.com/premium-photo/dog-cute-with-peach-fuzz-color-background_1000819-851.jpg?w=996');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
