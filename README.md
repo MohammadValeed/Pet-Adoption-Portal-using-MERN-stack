@@ -5,7 +5,7 @@
 
 The Pet Adoption Portal is a comprehensive web application designed to connect loving pet owners with adoptable animals in need of forever homes. This platform aims to streamline the pet adoption process, providing a user-friendly interface for both prospective adopters and animal shelters. By leveraging the power of the internet, the portal simplifies the search for compatible pets, facilitates adoption applications, and fosters a compassionate community dedicated to the well-being of animals.
 
-![image_alt](https://github.com/MohammadValeed/Pet-Adoption-Portal-using-MERN-stack/blob/main/Screenshot%202024-08-31%20122554.png?raw=true)
+![image_alt](https://github.com/MohammadValeed/Pet-Adoption-Portal-using-MERN-stack/blob/main/Home%20Page.png?raw=true)
 
 ### 🔷Problem: 
 Finding adoptable pets can be difficult, while shelters struggle with visibility and managing applications.
