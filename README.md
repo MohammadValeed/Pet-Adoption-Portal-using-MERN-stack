@@ -15,15 +15,16 @@ A user-friendly pet adoption portal that simplifies the process for both adopter
 
 ## Features:
 
-### User registration and profiles
-Searchable pet listings with filters and details
-Adoption request management for users and shelters
-Secure and efficient adoption process
+#### User registration and profiles
+#### Searchable pet listings with filters and details
+#### Adoption request management for users and shelters
+#### Secure and efficient adoption process
+
 ### Benefits:
 
-Increased adoption rates and reduced shelter overcrowding
-Improved matching between adopters and suitable pets
-Fostering a sense of community around pet adoption
+#### Increased adoption rates and reduced shelter overcrowding
+#### Improved matching between adopters and suitable pets
+#### Fostering a sense of community around pet adoption
 
 ### Technology Stack:
 
