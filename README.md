@@ -28,6 +28,7 @@ A user-friendly pet adoption portal that simplifies the process for both adopter
 
 ## ⭐Technology Stack:
 
+
 #### Front-end: 
 React.js, HTML, CSS, JavaScript
 #### Back-end: 
